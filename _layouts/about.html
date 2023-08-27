@@ -13,7 +13,8 @@ layout: default
 
         <article>
           {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}"
+          style="margin-top: -20px; padding: 10px;">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
@@ -30,7 +31,7 @@ layout: default
               cache_bust=true -%}
             {% endif -%}
             {%- if page.profile.address %}
-            <div class="address">
+            <div class="address", style="font-size: small; text-align: center; margin-top: 10; margin-left: 10;">
               {{ page.profile.address }}
             </div>
             {%- endif %}
