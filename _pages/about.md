@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Kolej K2</p>
-    <p>Studentská 17</p>
-    <p>370 05 České Budějovice, Czechia</p>
+    <p>Deggendorf, Germany</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -25,4 +23,4 @@ I have previously worked at [D. E. Shaw & Co.](https://www.deshaw.com/), one of 
 
 Outside of work, I find myself interested in reading, travelling and hiking.
 
-[View my CV here](/assets/pdf/Rohan_Mitra.pdf)
+[View my CV here](/assets/pdf/rohan_mitra.pdf)
