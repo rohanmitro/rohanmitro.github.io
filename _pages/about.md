@@ -22,5 +22,3 @@ Hello! I am currently pursuing my Master's Degree in Artificial Intellgence and 
 I have previously worked at [D. E. Shaw & Co.](https://www.deshaw.com/), one of the largest hedge funds as a Data Extraction Engineer. My role was to develop and maintain alternative data pipelines, a critical aspect of the firm's operations. Prior to this, I have worked at [LatentView Analytics](https://www.latentview.com/) as a Data Analyst, a prominent analytics consulting company based in India.
 
 Outside of work, I find myself interested in reading, travelling and hiking.
-
-[View my CV here](/assets/pdf/rohan_mitra.pdf)
